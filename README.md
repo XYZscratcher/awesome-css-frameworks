@@ -5,4 +5,6 @@
 
 在本仓库中，我们精选了一些适合开发者使用，有一定口碑的 CSS 框架，并附上了对该框架的简短介绍。我们保证，用**客观公正的态度**，帮助您摆脱困扰，选择您最适合、最需要的 CSS 框架。
 ## 推荐项目
-欢迎大家通过 issue 或 PR 推荐项目，成为贡献者！
+欢迎大家通过 issue 或 PR [推荐项目](//github.com/xyzscratcher/awesome-css-frameworks/issues/new)，成为[贡献者](/contributors.md)！
+## 使用指南
+
